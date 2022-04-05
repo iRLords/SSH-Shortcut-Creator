@@ -1,0 +1,16 @@
+{
+  "name": "ssh-shortcut-creator",
+  "version": "1.0.0",
+  "description": "With This Script Can Create SSH Server Conntection ShortCut !\nWriter : #AmirLoL\nTelegram : @iRLords",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "create-desktop-shortcuts":"^1.6.0",
+    "cli-color":"^2.0.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "author": "AmirLoL",
+  "license": "ISC"
+}
